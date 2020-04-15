@@ -27,7 +27,7 @@ learning from pixels (the planner always plans over the underlying low-dimension
 - `n_episodes` : maximum number of training episodes
 - `max_t` : maximum number of timesteps per episode
 
-### Agent
+#### Agent
 ```
 BUFFER_SIZE = int(1e6)  # replay buffer size
 BATCH_SIZE = 128        # minibatch size
