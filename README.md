@@ -61,7 +61,7 @@ After you have followed the instructions above, open `Continuous_Control.ipynb` 
 
 ## Instructions
 
-- `Continuous_Control.ipynb` : use to control the agent
+- `Continuous_Control.ipynb` : use to train the agent
 - `ddpg_agent.py` : use to construct the agents
 - `model.py` : use to construct the network
 - `Test_Learned.ipynb` : use to load the saved model weights and check if it works well
