@@ -6,7 +6,7 @@
 ### DDPG
 
 I used the Deep Deterministic Policy Gradients (DDPG) algorithm to solve the environment.  
-I referred this [paper](https://arxiv.org/abs/1509.02971) to understand DDPG.
+I referred to this [paper](https://arxiv.org/abs/1509.02971) to understand DDPG.
 ```
 Our model-free approach which we call Deep DPG (DDPG) can learn competitive policies for all of
 our tasks using low-dimensional observations (e.g. cartesian coordinates or joint angles) using the
