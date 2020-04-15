@@ -120,8 +120,8 @@ The Environment Was Solved at Episode 20	Average Score: 36.10	Average Score Over
 ## Ideas for Future Work
 
 - tweak hyperparameters to improve the performance
-- try other methods, such TRPI, PPO, A2C, A3C
 - try other unity-ml projects
+- try other methods which is likely to be suitable for each project, such as TRPO, PPO, A2C, A3C
 
 <!-- ## Step 01
 
